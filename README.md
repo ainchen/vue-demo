@@ -19,7 +19,7 @@ npm run build --report
 ```
 
 
-
+```
 .
 ├── build                                       // webpack配置文件
 │
@@ -88,3 +88,4 @@ npm run build --report
 ├── index.html                                  // 入口html文件
 
 
+```
