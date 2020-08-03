@@ -9,9 +9,9 @@
 			<div class="theme">
 				{{title}}
 			</div>
-			<div class="welcome">
+			<!-- <div class="welcome">
 				WELCOME
-			</div>
+			</div> -->
 			<div class="chops">
 				<form autocomplete="off" @submit.prevent="formSubmit">
 					<div class="el-input">
@@ -31,14 +31,14 @@
 			</div>
 		</div>
 		<div class="footer">
-			<div class="link">
+			<!-- <div class="link">
 				<p>友情链接：
 					<a href="http://192.168.90.191:9000/campus/#/index"><code>自主招生官网</code></a>
 				</p>
 			</div>
 			<div class="copyright">
 				<p>版权所有：广东新源股份有限公司 粤ICP备05005998号 </p>
-			</div>
+			</div> -->
 			<div class="order">
 
 			</div>
@@ -130,7 +130,7 @@
 	#loginView .header .login_logo {
 		position: absolute;
 		width: 6.5rem;
-		height: 4.3rem;
+		height: 4.4rem;
 		left: 3.8rem;
 		top: 2.4rem;
 		background-image: url(../../images/logo.png);

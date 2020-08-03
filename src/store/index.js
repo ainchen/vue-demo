@@ -12,7 +12,7 @@ import favicon from '@/images/favicon.png';
 Vue.use(Vuex)
 
 const state = {
-	'title': '新源智慧教室',
+	'title': 'AINCHEN',
 	'logo': logo,
 
 	'x-token': undefined, // x-token
